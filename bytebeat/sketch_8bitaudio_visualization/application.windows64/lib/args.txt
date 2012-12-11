@@ -1,0 +1,3 @@
+
+sketch_8bitaudio_visualization
+sketch_8bitaudio_visualization.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar,oscP5.jar
